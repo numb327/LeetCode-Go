@@ -379,6 +379,7 @@ headless: true
     - [0778.Swim-in-Rising-Water]({{< relref "/ChapterFour/0778.Swim-in-Rising-Water.md" >}})
     - [0781.Rabbits-in-Forest]({{< relref "/ChapterFour/0781.Rabbits-in-Forest.md" >}})
     - [0784.Letter-Case-Permutation]({{< relref "/ChapterFour/0784.Letter-Case-Permutation.md" >}})
+    - [0785.Is-Graph-Bipartite]({{< relref "/ChapterFour/0785.Is-Graph-Bipartite.md" >}})
     - [0786.K-th-Smallest-Prime-Fraction]({{< relref "/ChapterFour/0786.K-th-Smallest-Prime-Fraction.md" >}})
     - [0793.Preimage-Size-of-Factorial-Zeroes-Function]({{< relref "/ChapterFour/0793.Preimage-Size-of-Factorial-Zeroes-Function.md" >}})
     - [0802.Find-Eventual-Safe-States]({{< relref "/ChapterFour/0802.Find-Eventual-Safe-States.md" >}})
@@ -545,4 +546,6 @@ headless: true
     - [1455.Check-If-a-Word-Occurs-As-a-Prefix-of-Any-Word-in-a-Sentence]({{< relref "/ChapterFour/1455.Check-If-a-Word-Occurs-As-a-Prefix-of-Any-Word-in-a-Sentence.md" >}})
     - [1464.Maximum-Product-of-Two-Elements-in-an-Array]({{< relref "/ChapterFour/1464.Maximum-Product-of-Two-Elements-in-an-Array.md" >}})
     - [1470.Shuffle-the-Array]({{< relref "/ChapterFour/1470.Shuffle-the-Array.md" >}})
+    - [1480.Running-Sum-of-1d-Array]({{< relref "/ChapterFour/1480.Running-Sum-of-1d-Array.md" >}})
+    - [1512.Number-of-Good-Pairs]({{< relref "/ChapterFour/1512.Number-of-Good-Pairs.md" >}})
 <br />
